@@ -12,6 +12,7 @@ class CubitCounterScreen extends StatelessWidget {
       ),
       body: const Center(
         child: Text('Counter value: xxxx'),
+        
       ),
     );
   }
